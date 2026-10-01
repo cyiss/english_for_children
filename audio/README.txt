@@ -1,0 +1,1 @@
+English speech assets synthesized with the CMU Flite US-English SLT voice through FFmpeg, at 0.9 playback tempo. These are synthetic speech, not human recordings. The audio manifest is embedded in index.html. All curriculum speech buttons, including isolated words, practice lists, dialogues and stories, have matching MP3 files.

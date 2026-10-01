@@ -8,6 +8,6 @@
 
 预计网站地址：https://cyiss.github.io/english_for_children/
 
-语音使用设备的英语声音；打卡保存在浏览器本地，可导出备份，不支持跨设备自动同步。
+默认使用网站自带的英语合成MP3（`audio/`），设备英语语音为可选备用；打卡保存在浏览器本地，可导出备份，不支持跨设备自动同步。
 
 下载文件：`manual.pdf`、`manual.docx`、`learning-pack.zip`。
